@@ -1,0 +1,2017 @@
+[
+  {
+    "muscleGroup": "back",
+    "exercises": [
+      {
+        "name": "Back-extension-on-stability-ball-1.svg",
+        "path": "/assets/exercise/Back-extension-on-stability-ball-1.svg"
+      },
+      {
+        "name": "Back-extension-on-stability-ball-2.svg",
+        "path": "/assets/exercise/Back-extension-on-stability-ball-2.svg"
+      },
+      {
+        "name": "Barbell-shrugs-1.svg",
+        "path": "/assets/exercise/Barbell-shrugs-1.svg"
+      },
+      {
+        "name": "Barbell-shrugs-2.svg",
+        "path": "/assets/exercise/Barbell-shrugs-2.svg"
+      },
+      {
+        "name": "Barbell-rear-delt-row-1.svg",
+        "path": "/assets/exercise/Barbell-rear-delt-row-1.svg"
+      },
+      {
+        "name": "Barbell-rear-delt-row-2.svg",
+        "path": "/assets/exercise/Barbell-rear-delt-row-2.svg"
+      },
+      {
+        "name": "Bent-over-rear-delt-row-with-head-on-bench-1.png",
+        "path": "/assets/exercise/Bent-over-rear-delt-row-with-head-on-bench-1.png"
+      },
+      {
+        "name": "Bent-over-rear-delt-row-with-head-on-bench-2.png",
+        "path": "/assets/exercise/Bent-over-rear-delt-row-with-head-on-bench-2.png"
+      },
+      { "name": "Body-row-1.png", "path": "/assets/exercise/Body-row-1.png" },
+      { "name": "Body-row-2.png", "path": "/assets/exercise/Body-row-2.png" },
+      {
+        "name": "Cable-seated-rows-1.png",
+        "path": "/assets/exercise/Cable-seated-rows-1.png"
+      },
+      {
+        "name": "Cable-seated-rows-2.png",
+        "path": "/assets/exercise/Cable-seated-rows-2.png"
+      },
+      { "name": "Chin-ups-1.png", "path": "/assets/exercise/Chin-ups-1.png" },
+      { "name": "Chin-ups-2.png", "path": "/assets/exercise/Chin-ups-2.png" },
+      {
+        "name": "Climbers-chin-up-1.png",
+        "path": "/assets/exercise/Climbers-chin-up-1.png"
+      },
+      {
+        "name": "Climbers-chin-up-2.png",
+        "path": "/assets/exercise/Climbers-chin-up-2.png"
+      },
+      {
+        "name": "Close-grip-front-lat-pull-down-1.png",
+        "path": "/assets/exercise/Close-grip-front-lat-pull-down-1.png"
+      },
+      {
+        "name": "Close-grip-front-lat-pull-down-2.png",
+        "path": "/assets/exercise/Close-grip-front-lat-pull-down-2.png"
+      },
+      {
+        "name": "Dead-lifts-1.png",
+        "path": "/assets/exercise/Dead-lifts-1.png"
+      },
+      {
+        "name": "Dead-lifts-2.png",
+        "path": "/assets/exercise/Dead-lifts-2.png"
+      },
+      {
+        "name": "Dead-lifts-2-1.png",
+        "path": "/assets/exercise/Dead-lifts-2-1.png"
+      },
+      {
+        "name": "Dead-lifts-2-2.png",
+        "path": "/assets/exercise/Dead-lifts-2-2.png"
+      },
+      {
+        "name": "Gironda-sternum-chins-1.svg",
+        "path": "/assets/exercise/Gironda-sternum-chins-1.svg"
+      },
+      {
+        "name": "Gironda-sternum-chins-2.svg",
+        "path": "/assets/exercise/Gironda-sternum-chins-2.svg"
+      },
+      {
+        "name": "Good-mornings-1.png",
+        "path": "/assets/exercise/Good-mornings-1.png"
+      },
+      {
+        "name": "Good-mornings-2.png",
+        "path": "/assets/exercise/Good-mornings-2.png"
+      },
+      {
+        "name": "Good-mornings-2-1.png",
+        "path": "/assets/exercise/Good-mornings-2-1.png"
+      },
+      {
+        "name": "Good-mornings-2-2.png",
+        "path": "/assets/exercise/Good-mornings-2-2.png"
+      },
+      {
+        "name": "Hyperextensions-1.svg",
+        "path": "/assets/exercise/Hyperextensions-1.svg"
+      },
+      {
+        "name": "Hyperextensions-2.svg",
+        "path": "/assets/exercise/Hyperextensions-2.svg"
+      },
+      {
+        "name": "Lying-one-arm-rear-lateral-raise-1.svg",
+        "path": "/assets/exercise/Lying-one-arm-rear-lateral-raise-1.svg"
+      },
+      {
+        "name": "Lying-one-arm-rear-lateral-raise-2.svg",
+        "path": "/assets/exercise/Lying-one-arm-rear-lateral-raise-2.svg"
+      },
+      {
+        "name": "Lying-rear-lateral-raise-1.svg",
+        "path": "/assets/exercise/Lying-rear-lateral-raise-1.svg"
+      },
+      {
+        "name": "Lying-rear-lateral-raise-2.svg",
+        "path": "/assets/exercise/Lying-rear-lateral-raise-2.svg"
+      },
+      {
+        "name": "Rear-deltoid-row-1.svg",
+        "path": "/assets/exercise/Rear-deltoid-row-1.svg"
+      },
+      {
+        "name": "Rear-deltoid-row-2.svg",
+        "path": "/assets/exercise/Rear-deltoid-row-2.svg"
+      },
+      {
+        "name": "Reverse-grip-bent-over-rows-1.png",
+        "path": "/assets/exercise/Reverse-grip-bent-over-rows-1.png"
+      },
+      {
+        "name": "Reverse-grip-bent-over-rows-2.png",
+        "path": "/assets/exercise/Reverse-grip-bent-over-rows-2.png"
+      },
+      {
+        "name": "Smith-machine-rear-deltoid-row-1.png",
+        "path": "/assets/exercise/Smith-machine-rear-deltoid-row-1.png"
+      },
+      {
+        "name": "Smith-machine-rear-deltoid-row-2.png",
+        "path": "/assets/exercise/Smith-machine-rear-deltoid-row-2.png"
+      },
+      {
+        "name": "Smith-machine-shrugs-1.png",
+        "path": "/assets/exercise/Smith-machine-shrugs-1.png"
+      },
+      {
+        "name": "Smith-machine-shrugs-2.png",
+        "path": "/assets/exercise/Smith-machine-shrugs-2.png"
+      },
+      { "name": "Supermans-1.svg", "path": "/assets/exercise/Supermans-1.svg" },
+      { "name": "Supermans-2.svg", "path": "/assets/exercise/Supermans-2.svg" },
+      { "name": "T-bar-row-1.svg", "path": "/assets/exercise/T-bar-row-1.svg" },
+      { "name": "T-bar-row-2.svg", "path": "/assets/exercise/T-bar-row-2.svg" },
+      {
+        "name": "Underhand-pull-downs-1.png",
+        "path": "/assets/exercise/Underhand-pull-downs-1.png"
+      },
+      {
+        "name": "Underhand-pull-downs-2.png",
+        "path": "/assets/exercise/Underhand-pull-downs-2.png"
+      },
+      {
+        "name": "V-bar-pull-down-1.png",
+        "path": "/assets/exercise/V-bar-pull-down-1.png"
+      },
+      {
+        "name": "V-bar-pull-down-2.png",
+        "path": "/assets/exercise/V-bar-pull-down-2.png"
+      },
+      {
+        "name": "Wide-grip-lat-pull-down-1.gif",
+        "path": "/assets/exercise/Wide-grip-lat-pull-down-1.gif"
+      },
+      {
+        "name": "Wide-grip-lat-pull-down-2.gif",
+        "path": "/assets/exercise/Wide-grip-lat-pull-down-2.gif"
+      }
+    ]
+  },
+  {
+    "muscleGroup": "cardio",
+    "exercises": [
+      {
+        "name": "Running-1.png",
+        "path": "/assets/exercise/Running-1.png"
+      },
+      {
+        "name": "Running-2.png",
+        "path": "/assets/exercise/Running-2.png"
+      },
+      {
+        "name": "Jumping-Jacks-1.png",
+        "path": "/assets/exercise/Jumping-Jacks-1.png"
+      },
+      {
+        "name": "Jumping-Jacks-2.png",
+        "path": "/assets/exercise/Jumping-Jacks-2.png"
+      },
+      {
+        "name": "High-Knees-1.png",
+        "path": "/assets/exercise/High-Knees-1.png"
+      },
+      {
+        "name": "High-Knees-2.png",
+        "path": "/assets/exercise/High-Knees-2.png"
+      }
+    ]
+  },
+  {
+    "muscleGroup": "chest",
+    "exercises": [
+      {
+        "name": "Bench-press-1.svg",
+        "path": "/assets/exercise/Bench-press-1.svg"
+      },
+      {
+        "name": "Bench-press-2.svg",
+        "path": "/assets/exercise/Bench-press-2.svg"
+      },
+      {
+        "name": "Bench-press-2-1.png",
+        "path": "/assets/exercise/Bench-press-2-1.png"
+      },
+      {
+        "name": "Bench-press-2-2.png",
+        "path": "/assets/exercise/Bench-press-2-2.png"
+      },
+      {
+        "name": "Bench-press-3-1.png",
+        "path": "/assets/exercise/Bench-press-3-1.png"
+      },
+      {
+        "name": "Bench-press-3-2.png",
+        "path": "/assets/exercise/Bench-press-3-2.png"
+      },
+      {
+        "name": "Bench-press-with-bands-1.png",
+        "path": "/assets/exercise/Bench-press-with-bands-1.png"
+      },
+      {
+        "name": "Bench-press-with-bands-2.png",
+        "path": "/assets/exercise/Bench-press-with-bands-2.png"
+      },
+      {
+        "name": "Butterfly-machine-1.png",
+        "path": "/assets/exercise/Butterfly-machine-1.png"
+      },
+      {
+        "name": "Butterfly-machine-2.png",
+        "path": "/assets/exercise/Butterfly-machine-2.png"
+      },
+      {
+        "name": "Cable-crossover-1.png",
+        "path": "/assets/exercise/Cable-crossover-1.png"
+      },
+      {
+        "name": "Cable-crossover-2.png",
+        "path": "/assets/exercise/Cable-crossover-2.png"
+      },
+      {
+        "name": "Crossover-with-bands-1.png",
+        "path": "/assets/exercise/Crossover-with-bands-1.png"
+      },
+      {
+        "name": "Crossover-with-bands-2.png",
+        "path": "/assets/exercise/Crossover-with-bands-2.png"
+      },
+      {
+        "name": "Decline-bench-press-1.png",
+        "path": "/assets/exercise/Decline-bench-press-1.png"
+      },
+      {
+        "name": "Decline-bench-press-2.png",
+        "path": "/assets/exercise/Decline-bench-press-2.png"
+      },
+      {
+        "name": "Decline-chest-press-1.png",
+        "path": "/assets/exercise/Decline-chest-press-1.png"
+      },
+      {
+        "name": "Decline-chest-press-2.png",
+        "path": "/assets/exercise/Decline-chest-press-2.png"
+      },
+      {
+        "name": "Decline-dumbbell-bench-press-1.png",
+        "path": "/assets/exercise/Decline-dumbbell-bench-press-1.png"
+      },
+      {
+        "name": "Decline-dumbbell-bench-press-2.png",
+        "path": "/assets/exercise/Decline-dumbbell-bench-press-2.png"
+      },
+      {
+        "name": "Dumbbell-bench-press-1.png",
+        "path": "/assets/exercise/Dumbbell-bench-press-1.png"
+      },
+      {
+        "name": "Dumbbell-bench-press-2.png",
+        "path": "/assets/exercise/Dumbbell-bench-press-2.png"
+      },
+      {
+        "name": "Dumbbell-decline-flys-1.svg",
+        "path": "/assets/exercise/Dumbbell-decline-flys-1.svg"
+      },
+      {
+        "name": "Dumbbell-decline-flys-2.svg",
+        "path": "/assets/exercise/Dumbbell-decline-flys-2.svg"
+      },
+      {
+        "name": "Dumbbell-flys-1.svg",
+        "path": "/assets/exercise/Dumbbell-flys-1.svg"
+      },
+      {
+        "name": "Dumbbell-flys-2.svg",
+        "path": "/assets/exercise/Dumbbell-flys-2.svg"
+      },
+      {
+        "name": "Dumbbell-incline-bench-press-1.png",
+        "path": "/assets/exercise/Dumbbell-incline-bench-press-1.png"
+      },
+      {
+        "name": "Dumbbell-incline-bench-press-2.png",
+        "path": "/assets/exercise/Dumbbell-incline-bench-press-2.png"
+      },
+      {
+        "name": "Flat-bench-cable-flys-1.png",
+        "path": "/assets/exercise/Flat-bench-cable-flys-1.png"
+      },
+      {
+        "name": "Flat-bench-cable-flys-2.png",
+        "path": "/assets/exercise/Flat-bench-cable-flys-2.png"
+      },
+      {
+        "name": "Hammer-grip-incline-bench-press-1.png",
+        "path": "/assets/exercise/Hammer-grip-incline-bench-press-1.png"
+      },
+      {
+        "name": "Hammer-grip-incline-bench-press-2.png",
+        "path": "/assets/exercise/Hammer-grip-incline-bench-press-2.png"
+      },
+      {
+        "name": "Incline-bench-press-1.png",
+        "path": "/assets/exercise/Incline-bench-press-1.png"
+      },
+      {
+        "name": "Incline-bench-press-2.png",
+        "path": "/assets/exercise/Incline-bench-press-2.png"
+      },
+      {
+        "name": "Incline-bench-press-2-1.png",
+        "path": "/assets/exercise/Incline-bench-press-2-1.png"
+      },
+      {
+        "name": "Incline-bench-press-2-2.png",
+        "path": "/assets/exercise/Incline-bench-press-2-2.png"
+      },
+      {
+        "name": "Incline-cable-flyes-1.png",
+        "path": "/assets/exercise/Incline-cable-flyes-1.png"
+      },
+      {
+        "name": "Incline-cable-flyes-2.png",
+        "path": "/assets/exercise/Incline-cable-flyes-2.png"
+      },
+      {
+        "name": "Incline-chest-press-1.png",
+        "path": "/assets/exercise/Incline-chest-press-1.png"
+      },
+      {
+        "name": "Incline-chest-press-2.png",
+        "path": "/assets/exercise/Incline-chest-press-2.png"
+      },
+      {
+        "name": "Incline-flys-1.png",
+        "path": "/assets/exercise/Incline-flys-1.png"
+      },
+      {
+        "name": "Incline-flys-2.png",
+        "path": "/assets/exercise/Incline-flys-2.png"
+      },
+      {
+        "name": "Incline-flys-with-a-twist-1.png",
+        "path": "/assets/exercise/Incline-flys-with-a-twist-1.png"
+      },
+      {
+        "name": "Incline-flys-with-a-twist-2.png",
+        "path": "/assets/exercise/Incline-flys-with-a-twist-2.png"
+      },
+      {
+        "name": "Incline-press-1.png",
+        "path": "/assets/exercise/Incline-press-1.png"
+      },
+      {
+        "name": "Incline-press-2.png",
+        "path": "/assets/exercise/Incline-press-2.png"
+      },
+      {
+        "name": "Narrow-grip-bench-press-1.svg",
+        "path": "/assets/exercise/Narrow-grip-bench-press-1.svg"
+      },
+      {
+        "name": "Narrow-grip-bench-press-2.svg",
+        "path": "/assets/exercise/Narrow-grip-bench-press-2.svg"
+      },
+      {
+        "name": "Neck-press-1.png",
+        "path": "/assets/exercise/Neck-press-1.png"
+      },
+      {
+        "name": "Neck-press-2.png",
+        "path": "/assets/exercise/Neck-press-2.png"
+      },
+      {
+        "name": "One-arm-bench-press-1.svg",
+        "path": "/assets/exercise/One-arm-bench-press-1.svg"
+      },
+      {
+        "name": "One-arm-bench-press-2.svg",
+        "path": "/assets/exercise/One-arm-bench-press-2.svg"
+      },
+      {
+        "name": "One-arm-flat-bench-flys-1.png",
+        "path": "/assets/exercise/One-arm-flat-bench-flys-1.png"
+      },
+      {
+        "name": "One-arm-flat-bench-flys-2.png",
+        "path": "/assets/exercise/One-arm-flat-bench-flys-2.png"
+      },
+      {
+        "name": "One-arm-floor-press-1.png",
+        "path": "/assets/exercise/One-arm-floor-press-1.png"
+      },
+      {
+        "name": "One-arm-floor-press-2.png",
+        "path": "/assets/exercise/One-arm-floor-press-2.png"
+      },
+      {
+        "name": "One-armed-biased-push-up-1.svg",
+        "path": "/assets/exercise/One-armed-biased-push-up-1.svg"
+      },
+      {
+        "name": "One-armed-biased-push-up-2.svg",
+        "path": "/assets/exercise/One-armed-biased-push-up-2.svg"
+      },
+      { "name": "Push-up-1.svg", "path": "/assets/exercise/Push-up-1.svg" },
+      { "name": "Push-up-2.svg", "path": "/assets/exercise/Push-up-2.svg" },
+      { "name": "Push-ups-1.svg", "path": "/assets/exercise/Push-ups-1.svg" },
+      { "name": "Push-ups-2.svg", "path": "/assets/exercise/Push-ups-2.svg" },
+      {
+        "name": "Push-up-with-feet-on-an-exercise-ball-1.svg",
+        "path": "/assets/exercise/Push-up-with-feet-on-an-exercise-ball-1.svg"
+      },
+      {
+        "name": "Push-up-with-feet-on-an-exercise-ball-2.svg",
+        "path": "/assets/exercise/Push-up-with-feet-on-an-exercise-ball-2.svg"
+      },
+      {
+        "name": "Wide-grip-bench-press-1.png",
+        "path": "/assets/exercise/Wide-grip-bench-press-1.png"
+      },
+      {
+        "name": "Wide-grip-bench-press-2.png",
+        "path": "/assets/exercise/Wide-grip-bench-press-2.png"
+      },
+      {
+        "name": "Wide-grip-decline-bench-press-1.png",
+        "path": "/assets/exercise/Wide-grip-decline-bench-press-1.png"
+      },
+      {
+        "name": "Wide-grip-decline-bench-press-2.png",
+        "path": "/assets/exercise/Wide-grip-decline-bench-press-2.png"
+      },
+      {
+        "name": "Wide-grip-decline-pullover-1.png",
+        "path": "/assets/exercise/Wide-grip-decline-pullover-1.png"
+      },
+      {
+        "name": "Wide-grip-decline-pullover-2.png",
+        "path": "/assets/exercise/Wide-grip-decline-pullover-2.png"
+      }
+    ]
+  },
+  {
+    "muscleGroup": "lower arms",
+    "exercises": [
+      {
+        "name": "Reverse-plate-curls-1.svg",
+        "path": "/assets/exercise/Reverse-plate-curls-1.svg"
+      },
+      {
+        "name": "Reverse-plate-curls-2.svg",
+        "path": "/assets/exercise/Reverse-plate-curls-2.svg"
+      }
+    ]
+  },
+  {
+    "muscleGroup": "lower legs",
+    "exercises": [
+      {
+        "name": "Calves press-on-leg-machine-1.gif",
+        "path": "/assets/exercise/Calves press-on-leg-machine-1.gif"
+      },
+      {
+        "name": "Calves press-on-leg-machine-2.gif",
+        "path": "/assets/exercise/Calves press-on-leg-machine-2.gif"
+      },
+      {
+        "name": "Calf-raises-1.gif",
+        "path": "/assets/exercise/Calf-raises-1.gif"
+      },
+      {
+        "name": "Calf-raises-2.gif",
+        "path": "/assets/exercise/Calf-raises-2.gif"
+      },
+      {
+        "name": "Donkey-calf-raises-1.gif",
+        "path": "/assets/exercise/Donkey-calf-raises-1.gif"
+      },
+      {
+        "name": "Donkey-calf-raises-2.gif",
+        "path": "/assets/exercise/Donkey-calf-raises-2.gif"
+      },
+      {
+        "name": "Rocking-standing-calf-raise-1.gif",
+        "path": "/assets/exercise/Rocking-standing-calf-raise-1.gif"
+      },
+      {
+        "name": "Rocking-standing-calf-raise-2.gif",
+        "path": "/assets/exercise/Rocking-standing-calf-raise-2.gif"
+      },
+      {
+        "name": "Seated-calf-raise-1.gif",
+        "path": "/assets/exercise/Seated-calf-raise-1.gif"
+      },
+      {
+        "name": "Seated-calf-raise-2.gif",
+        "path": "/assets/exercise/Seated-calf-raise-2.gif"
+      },
+      {
+        "name": "Seated-calf-raise-2-1.gif",
+        "path": "/assets/exercise/Seated-calf-raise-2-1.gif"
+      },
+      {
+        "name": "Seated-calf-raise-2-2.gif",
+        "path": "/assets/exercise/Seated-calf-raise-2-2.gif"
+      },
+      {
+        "name": "Seated-one-leg-calf-raise-1.gif",
+        "path": "/assets/exercise/Seated-one-leg-calf-raise-1.gif"
+      },
+      {
+        "name": "Seated-one-leg-calf-raise-2.gif",
+        "path": "/assets/exercise/Seated-one-leg-calf-raise-2.gif"
+      },
+      {
+        "name": "Smith-machine-reverse-calf-raises-1.gif",
+        "path": "/assets/exercise/Smith-machine-reverse-calf-raises-1.gif"
+      },
+      {
+        "name": "Smith-machine-reverse-calf-raises-2.gif",
+        "path": "/assets/exercise/Smith-machine-reverse-calf-raises-2.gif"
+      },
+      {
+        "name": "Standing-barbell-calf-raise-1.gif",
+        "path": "/assets/exercise/Standing-barbell-calf-raise-1.gif"
+      },
+      {
+        "name": "Standing-barbell-calf-raise-2.gif",
+        "path": "/assets/exercise/Standing-barbell-calf-raise-2.gif"
+      },
+      {
+        "name": "Standing-calf-raises-1.gif",
+        "path": "/assets/exercise/Standing-calf-raises-1.gif"
+      },
+      {
+        "name": "Standing-calf-raises-2.gif",
+        "path": "/assets/exercise/Standing-calf-raises-2.gif"
+      }
+    ]
+  },
+  {
+    "muscleGroup": "neck",
+    "exercises": [
+      {
+        "name": "Front-and-back-neck-isometric-1.png",
+        "path": "/assets/exercise/Front-and-back-neck-isometric-1.png"
+      },
+      {
+        "name": "Front-and-back-neck-isometric-2.png",
+        "path": "/assets/exercise/Front-and-back-neck-isometric-2.png"
+      },
+      {
+        "name": "Side-neck-isometric-1.png",
+        "path": "/assets/exercise/Side-neck-isometric-1.png"
+      },
+      {
+        "name": "Side-neck-isometric-2.png",
+        "path": "/assets/exercise/Side-neck-isometric-2.png"
+      }
+    ]
+  },
+  {
+    "muscleGroup": "shoulders",
+    "exercises": [
+      {
+        "name": "Arnold-press-1.svg",
+        "path": "/assets/exercise/Arnold-press-1.svg"
+      },
+      {
+        "name": "Arnold-press-2.svg",
+        "path": "/assets/exercise/Arnold-press-2.svg"
+      },
+      {
+        "name": "Back-flyes-with-resistance-bands-1.png",
+        "path": "/assets/exercise/Back-flyes-with-resistance-bands-1.png"
+      },
+      {
+        "name": "Back-flyes-with-resistance-bands-2.png",
+        "path": "/assets/exercise/Back-flyes-with-resistance-bands-2.png"
+      },
+      {
+        "name": "Ball-wall-circles-1.png",
+        "path": "/assets/exercise/Ball-wall-circles-1.png"
+      },
+      {
+        "name": "Ball-wall-circles-2.png",
+        "path": "/assets/exercise/Ball-wall-circles-2.png"
+      },
+      {
+        "name": "Barbell-front-raises-1.svg",
+        "path": "/assets/exercise/Barbell-front-raises-1.svg"
+      },
+      {
+        "name": "Barbell-front-raises-2.svg",
+        "path": "/assets/exercise/Barbell-front-raises-2.svg"
+      },
+      {
+        "name": "Barbell-upright-rows-1.svg",
+        "path": "/assets/exercise/Barbell-upright-rows-1.svg"
+      },
+      {
+        "name": "Barbell-upright-rows-2.svg",
+        "path": "/assets/exercise/Barbell-upright-rows-2.svg"
+      },
+      {
+        "name": "Bent-over-cable-lateral-raises-1.png",
+        "path": "/assets/exercise/Bent-over-cable-lateral-raises-1.png"
+      },
+      {
+        "name": "Bent-over-cable-lateral-raises-2.png",
+        "path": "/assets/exercise/Bent-over-cable-lateral-raises-2.png"
+      },
+      {
+        "name": "Cable-front-raises-1.png",
+        "path": "/assets/exercise/Cable-front-raises-1.png"
+      },
+      {
+        "name": "Cable-front-raises-2.png",
+        "path": "/assets/exercise/Cable-front-raises-2.png"
+      },
+      {
+        "name": "Cable-internal-rotation-1.png",
+        "path": "/assets/exercise/Cable-internal-rotation-1.png"
+      },
+      {
+        "name": "Cable-internal-rotation-2.png",
+        "path": "/assets/exercise/Cable-internal-rotation-2.png"
+      },
+      {
+        "name": "Cable-seated-rear-lateral-raise-1.png",
+        "path": "/assets/exercise/Cable-seated-rear-lateral-raise-1.png"
+      },
+      {
+        "name": "Cable-seated-rear-lateral-raise-2.png",
+        "path": "/assets/exercise/Cable-seated-rear-lateral-raise-2.png"
+      },
+      {
+        "name": "Cable-shrugs-1.png",
+        "path": "/assets/exercise/Cable-shrugs-1.png"
+      },
+      {
+        "name": "Cable-shrugs-2.png",
+        "path": "/assets/exercise/Cable-shrugs-2.png"
+      },
+      {
+        "name": "Cable-upright-rows-1.png",
+        "path": "/assets/exercise/Cable-upright-rows-1.png"
+      },
+      {
+        "name": "Cable-upright-rows-2.png",
+        "path": "/assets/exercise/Cable-upright-rows-2.png"
+      },
+      {
+        "name": "Cuban-press-1.png",
+        "path": "/assets/exercise/Cuban-press-1.png"
+      },
+      {
+        "name": "Cuban-press-2.png",
+        "path": "/assets/exercise/Cuban-press-2.png"
+      },
+      {
+        "name": "Dumbbell-front-raises-1.svg",
+        "path": "/assets/exercise/Dumbbell-front-raises-1.svg"
+      },
+      {
+        "name": "Dumbbell-front-raises-2.svg",
+        "path": "/assets/exercise/Dumbbell-front-raises-2.svg"
+      },
+      {
+        "name": "Dumbbell-front-raises-2-1.svg",
+        "path": "/assets/exercise/Dumbbell-front-raises-2-1.svg"
+      },
+      {
+        "name": "Dumbbell-front-raises-2-2.svg",
+        "path": "/assets/exercise/Dumbbell-front-raises-2-2.svg"
+      },
+      {
+        "name": "Dumbbell-lateral-raises-1.svg",
+        "path": "/assets/exercise/Dumbbell-lateral-raises-1.svg"
+      },
+      {
+        "name": "Dumbbell-lateral-raises-2.svg",
+        "path": "/assets/exercise/Dumbbell-lateral-raises-2.svg"
+      },
+      {
+        "name": "Dumbbell-raise-1.png",
+        "path": "/assets/exercise/Dumbbell-raise-1.png"
+      },
+      {
+        "name": "Dumbbell-raise-2.png",
+        "path": "/assets/exercise/Dumbbell-raise-2.png"
+      },
+      {
+        "name": "Dumbbell-shoulder-press-1.png",
+        "path": "/assets/exercise/Dumbbell-shoulder-press-1.png"
+      },
+      {
+        "name": "Dumbbell-shoulder-press-2.png",
+        "path": "/assets/exercise/Dumbbell-shoulder-press-2.png"
+      },
+      {
+        "name": "Dumbbell-shrugs-1.png",
+        "path": "/assets/exercise/Dumbbell-shrugs-1.png"
+      },
+      {
+        "name": "Dumbbell-shrugs-2.png",
+        "path": "/assets/exercise/Dumbbell-shrugs-2.png"
+      },
+      {
+        "name": "Dumbbell-upright-row-1.png",
+        "path": "/assets/exercise/Dumbbell-upright-row-1.png"
+      },
+      {
+        "name": "Dumbbell-upright-row-2.png",
+        "path": "/assets/exercise/Dumbbell-upright-row-2.png"
+      },
+      {
+        "name": "Front-raise-and-pullover-1.gif",
+        "path": "/assets/exercise/Front-raise-and-pullover-1.gif"
+      },
+      {
+        "name": "Front-raise-and-pullover-2.gif",
+        "path": "/assets/exercise/Front-raise-and-pullover-2.gif"
+      },
+      {
+        "name": "One-arm-shoulder-press-1.svg",
+        "path": "/assets/exercise/One-arm-shoulder-press-1.svg"
+      },
+      {
+        "name": "One-arm-shoulder-press-2.svg",
+        "path": "/assets/exercise/One-arm-shoulder-press-2.svg"
+      },
+      {
+        "name": "One-arm-upright-row-1.svg",
+        "path": "/assets/exercise/One-arm-upright-row-1.svg"
+      },
+      {
+        "name": "One-arm-upright-row-2.svg",
+        "path": "/assets/exercise/One-arm-upright-row-2.svg"
+      },
+      {
+        "name": "Seated-military-shoulder-press-1.png",
+        "path": "/assets/exercise/Seated-military-shoulder-press-1.png"
+      },
+      {
+        "name": "Seated-military-shoulder-press-2.png",
+        "path": "/assets/exercise/Seated-military-shoulder-press-2.png"
+      },
+      {
+        "name": "Shoulder-press-machine-1.png",
+        "path": "/assets/exercise/Shoulder-press-machine-1.png"
+      },
+      {
+        "name": "Shoulder-press-machine-2.png",
+        "path": "/assets/exercise/Shoulder-press-machine-2.png"
+      },
+      {
+        "name": "Smith-machine-upright-row-1.png",
+        "path": "/assets/exercise/Smith-machine-upright-row-1.png"
+      },
+      {
+        "name": "Smith-machine-upright-row-2.png",
+        "path": "/assets/exercise/Smith-machine-upright-row-2.png"
+      },
+      {
+        "name": "Straight-arm-pullover-1.png",
+        "path": "/assets/exercise/Straight-arm-pullover-1.png"
+      },
+      {
+        "name": "Straight-arm-pullover-2.png",
+        "path": "/assets/exercise/Straight-arm-pullover-2.png"
+      },
+      {
+        "name": "Straight-arm-push-down-1.png",
+        "path": "/assets/exercise/Straight-arm-push-down-1.png"
+      },
+      {
+        "name": "Straight-arm-push-down-2.png",
+        "path": "/assets/exercise/Straight-arm-push-down-2.png"
+      },
+      {
+        "name": "Upright-row-1.png",
+        "path": "/assets/exercise/Upright-row-1.png"
+      },
+      {
+        "name": "Upright-row-2.png",
+        "path": "/assets/exercise/Upright-row-2.png"
+      }
+    ]
+  },
+  {
+    "muscleGroup": "upper arms",
+    "exercises": [
+      {
+        "name": "Alternate-bicep-curl-1.gif",
+        "path": "/assets/exercise/Alternate-bicep-curl-1.gif"
+      },
+      {
+        "name": "Alternate-bicep-curl-2.gif",
+        "path": "/assets/exercise/Alternate-bicep-curl-2.gif"
+      },
+      {
+        "name": "Alternate-hammer-curl-1.gif",
+        "path": "/assets/exercise/Alternate-hammer-curl-1.gif"
+      },
+      {
+        "name": "Alternate-hammer-curl-2.gif",
+        "path": "/assets/exercise/Alternate-hammer-curl-2.gif"
+      },
+      {
+        "name": "Alternate-incline-curl-1.gif",
+        "path": "/assets/exercise/Alternate-incline-curl-1.gif"
+      },
+      {
+        "name": "Alternate-incline-curl-2.gif",
+        "path": "/assets/exercise/Alternate-incline-curl-2.gif"
+      },
+      {
+        "name": "Bench-dips-1.svg",
+        "path": "/assets/exercise/Bench-dips-1.svg"
+      },
+      {
+        "name": "Bench-dips-2.svg",
+        "path": "/assets/exercise/Bench-dips-2.svg"
+      },
+      {
+        "name": "Bicep-curl-1.gif",
+        "path": "/assets/exercise/Bicep-curl-1.gif"
+      },
+      {
+        "name": "Bicep-curl-2.gif",
+        "path": "/assets/exercise/Bicep-curl-2.gif"
+      },
+      {
+        "name": "Bicep-curls-1.svg",
+        "path": "/assets/exercise/Bicep-curls-1.svg"
+      },
+      {
+        "name": "Bicep-curls-2.svg",
+        "path": "/assets/exercise/Bicep-curls-2.svg"
+      },
+      {
+        "name": "Bicep-hammer-curl-1.svg",
+        "path": "/assets/exercise/Bicep-hammer-curl-1.svg"
+      },
+      {
+        "name": "Bicep-hammer-curl-2.svg",
+        "path": "/assets/exercise/Bicep-hammer-curl-2.svg"
+      },
+      {
+        "name": "Biceps-curl-1.svg",
+        "path": "/assets/exercise/Biceps-curl-1.svg"
+      },
+      {
+        "name": "Biceps-curl-2.svg",
+        "path": "/assets/exercise/Biceps-curl-2.svg"
+      },
+      {
+        "name": "Biceps-curl-reverse-1.svg",
+        "path": "/assets/exercise/Biceps-curl-reverse-1.svg"
+      },
+      {
+        "name": "Biceps-curl-reverse-2.svg",
+        "path": "/assets/exercise/Biceps-curl-reverse-2.svg"
+      },
+      {
+        "name": "Biceps-curl-seated-on-stability-ball-1.gif",
+        "path": "/assets/exercise/Biceps-curl-seated-on-stability-ball-1.gif"
+      },
+      {
+        "name": "Biceps-curl-seated-on-stability-ball-2.gif",
+        "path": "/assets/exercise/Biceps-curl-seated-on-stability-ball-2.gif"
+      },
+      {
+        "name": "Close-grip-bench-press-1.gif",
+        "path": "/assets/exercise/Close-grip-bench-press-1.gif"
+      },
+      {
+        "name": "Close-grip-bench-press-2.gif",
+        "path": "/assets/exercise/Close-grip-bench-press-2.gif"
+      },
+      {
+        "name": "Close-grip-ez-bar-curl-1.gif",
+        "path": "/assets/exercise/Close-grip-ez-bar-curl-1.gif"
+      },
+      {
+        "name": "Close-grip-ez-bar-curl-2.gif",
+        "path": "/assets/exercise/Close-grip-ez-bar-curl-2.gif"
+      },
+      {
+        "name": "Close-grip-standing-bicep-curls-1.gif",
+        "path": "/assets/exercise/Close-grip-standing-bicep-curls-1.gif"
+      },
+      {
+        "name": "Close-grip-standing-bicep-curls-2.gif",
+        "path": "/assets/exercise/Close-grip-standing-bicep-curls-2.gif"
+      },
+      {
+        "name": "Close-triceps-pushup-1.gif",
+        "path": "/assets/exercise/Close-triceps-pushup-1.gif"
+      },
+      {
+        "name": "Close-triceps-pushup-2.gif",
+        "path": "/assets/exercise/Close-triceps-pushup-2.gif"
+      },
+      {
+        "name": "Concentration-curls-1.svg",
+        "path": "/assets/exercise/Concentration-curls-1.svg"
+      },
+      {
+        "name": "Concentration-curls-2.svg",
+        "path": "/assets/exercise/Concentration-curls-2.svg"
+      },
+      {
+        "name": "Cross-body-hammer-curl-1.gif",
+        "path": "/assets/exercise/Cross-body-hammer-curl-1.gif"
+      },
+      {
+        "name": "Cross-body-hammer-curl-2.gif",
+        "path": "/assets/exercise/Cross-body-hammer-curl-2.gif"
+      },
+      {
+        "name": "Decline-close-grip-bench-to-skull-crusher-1.gif",
+        "path": "/assets/exercise/Decline-close-grip-bench-to-skull-crusher-1.gif"
+      },
+      {
+        "name": "Decline-close-grip-bench-to-skull-crusher-2.gif",
+        "path": "/assets/exercise/Decline-close-grip-bench-to-skull-crusher-2.gif"
+      },
+      {
+        "name": "Decline-ez-bar-triceps-extension-1.gif",
+        "path": "/assets/exercise/Decline-ez-bar-triceps-extension-1.gif"
+      },
+      {
+        "name": "Decline-ez-bar-triceps-extension-2.gif",
+        "path": "/assets/exercise/Decline-ez-bar-triceps-extension-2.gif"
+      },
+      {
+        "name": "Decline-triceps-extension-1.gif",
+        "path": "/assets/exercise/Decline-triceps-extension-1.gif"
+      },
+      {
+        "name": "Decline-triceps-extension-2.gif",
+        "path": "/assets/exercise/Decline-triceps-extension-2.gif"
+      },
+      { "name": "Drag-curl-1.gif", "path": "/assets/exercise/Drag-curl-1.gif" },
+      { "name": "Drag-curl-2.gif", "path": "/assets/exercise/Drag-curl-2.gif" },
+      {
+        "name": "Ez-bar-curl-1.gif",
+        "path": "/assets/exercise/Ez-bar-curl-1.gif"
+      },
+      {
+        "name": "Ez-bar-curl-2.gif",
+        "path": "/assets/exercise/Ez-bar-curl-2.gif"
+      },
+      {
+        "name": "Flexor-incline-curls-1.gif",
+        "path": "/assets/exercise/Flexor-incline-curls-1.gif"
+      },
+      {
+        "name": "Flexor-incline-curls-2.gif",
+        "path": "/assets/exercise/Flexor-incline-curls-2.gif"
+      },
+      {
+        "name": "Hammer-curls-with-rope-1.svg",
+        "path": "/assets/exercise/Hammer-curls-with-rope-1.svg"
+      },
+      {
+        "name": "Hammer-curls-with-rope-2.svg",
+        "path": "/assets/exercise/Hammer-curls-with-rope-2.svg"
+      },
+      {
+        "name": "High-cable-curls-1.svg",
+        "path": "/assets/exercise/High-cable-curls-1.svg"
+      },
+      {
+        "name": "High-cable-curls-2.svg",
+        "path": "/assets/exercise/High-cable-curls-2.svg"
+      },
+      {
+        "name": "Incline-biceps-curl-1.gif",
+        "path": "/assets/exercise/Incline-biceps-curl-1.gif"
+      },
+      {
+        "name": "Incline-biceps-curl-2.gif",
+        "path": "/assets/exercise/Incline-biceps-curl-2.gif"
+      },
+      {
+        "name": "Incline-inner-biceps-curl-2.gif",
+        "path": "/assets/exercise/Incline-inner-biceps-curl-2.gif"
+      },
+      {
+        "name": "Incline-pushdown-1.gif",
+        "path": "/assets/exercise/Incline-pushdown-1.gif"
+      },
+      {
+        "name": "Incline-pushdown-2.gif",
+        "path": "/assets/exercise/Incline-pushdown-2.gif"
+      },
+      {
+        "name": "Incline-triceps-extension-1.gif",
+        "path": "/assets/exercise/Incline-triceps-extension-1.gif"
+      },
+      {
+        "name": "Incline-triceps-extension-2.gif",
+        "path": "/assets/exercise/Incline-triceps-extension-2.gif"
+      },
+      {
+        "name": "Incline-triceps-extension-2-1.gif",
+        "path": "/assets/exercise/Incline-triceps-extension-2-1.gif"
+      },
+      {
+        "name": "Incline-triceps-extension-2-2.gif",
+        "path": "/assets/exercise/Incline-triceps-extension-2-2.gif"
+      },
+      {
+        "name": "Incline-triceps-extensions-1.svg",
+        "path": "/assets/exercise/Incline-triceps-extensions-1.svg"
+      },
+      {
+        "name": "Incline-triceps-extensions-2.svg",
+        "path": "/assets/exercise/Incline-triceps-extensions-2.svg"
+      },
+      { "name": "Jm-press-1.gif", "path": "/assets/exercise/Jm-press-1.gif" },
+      { "name": "Jm-press-2.gif", "path": "/assets/exercise/Jm-press-2.gif" },
+      { "name": "Jm-press-3.gif", "path": "/assets/exercise/Jm-press-3.gif" },
+      {
+        "name": "Kneeling-concentration-triceps-extension-1.svg",
+        "path": "/assets/exercise/Kneeling-concentration-triceps-extension-1.svg"
+      },
+      {
+        "name": "Kneeling-concentration-triceps-extension-2.svg",
+        "path": "/assets/exercise/Kneeling-concentration-triceps-extension-2.svg"
+      },
+      {
+        "name": "Kneeling-triceps-extension-1.gif",
+        "path": "/assets/exercise/Kneeling-triceps-extension-1.gif"
+      },
+      {
+        "name": "Kneeling-triceps-extension-2.gif",
+        "path": "/assets/exercise/Kneeling-triceps-extension-2.gif"
+      },
+      {
+        "name": "Low-triceps-extension-1.svg",
+        "path": "/assets/exercise/Low-triceps-extension-1.svg"
+      },
+      {
+        "name": "Low-triceps-extension-2.svg",
+        "path": "/assets/exercise/Low-triceps-extension-2.svg"
+      },
+      {
+        "name": "Lying-bicep-cable-curl-1.svg",
+        "path": "/assets/exercise/Lying-bicep-cable-curl-1.svg"
+      },
+      {
+        "name": "Lying-bicep-cable-curl-2.svg",
+        "path": "/assets/exercise/Lying-bicep-cable-curl-2.svg"
+      },
+      {
+        "name": "Lying-close-grip-biceps-curls-1.gif",
+        "path": "/assets/exercise/Lying-close-grip-biceps-curls-1.gif"
+      },
+      {
+        "name": "Lying-close-grip-biceps-curls-2.gif",
+        "path": "/assets/exercise/Lying-close-grip-biceps-curls-2.gif"
+      },
+      {
+        "name": "Lying-close-grip-triceps-extension-behind-the-head-1.gif",
+        "path": "/assets/exercise/Lying-close-grip-triceps-extension-behind-the-head-1.gif"
+      },
+      {
+        "name": "Lying-close-grip-triceps-extension-behind-the-head-2.gif",
+        "path": "/assets/exercise/Lying-close-grip-triceps-extension-behind-the-head-2.gif"
+      },
+      {
+        "name": "Lying-close-grip-triceps-press-to-chin-1.svg",
+        "path": "/assets/exercise/Lying-close-grip-triceps-press-to-chin-1.svg"
+      },
+      {
+        "name": "Lying-close-grip-triceps-press-to-chin-2.svg",
+        "path": "/assets/exercise/Lying-close-grip-triceps-press-to-chin-2.svg"
+      },
+      {
+        "name": "Lying-high-bench-biceps-curl-1.gif",
+        "path": "/assets/exercise/Lying-high-bench-biceps-curl-1.gif"
+      },
+      {
+        "name": "Lying-high-bench-biceps-curl-2.gif",
+        "path": "/assets/exercise/Lying-high-bench-biceps-curl-2.gif"
+      },
+      {
+        "name": "Lying-incline-curl-1.gif",
+        "path": "/assets/exercise/Lying-incline-curl-1.gif"
+      },
+      {
+        "name": "Lying-incline-curl-2.gif",
+        "path": "/assets/exercise/Lying-incline-curl-2.gif"
+      },
+      {
+        "name": "Lying-supine-biceps-curl-1.gif",
+        "path": "/assets/exercise/Lying-supine-biceps-curl-1.gif"
+      },
+      {
+        "name": "Lying-supine-biceps-curl-2.gif",
+        "path": "/assets/exercise/Lying-supine-biceps-curl-2.gif"
+      },
+      {
+        "name": "Lying-supine-two-arm-triceps-extension-1.gif",
+        "path": "/assets/exercise/Lying-supine-two-arm-triceps-extension-1.gif"
+      },
+      {
+        "name": "Lying-supine-two-arm-triceps-extension-2.gif",
+        "path": "/assets/exercise/Lying-supine-two-arm-triceps-extension-2.gif"
+      },
+      {
+        "name": "Lying-triceps-extension-1.gif",
+        "path": "/assets/exercise/Lying-triceps-extension-1.gif"
+      },
+      {
+        "name": "Lying-triceps-extension-2.gif",
+        "path": "/assets/exercise/Lying-triceps-extension-2.gif"
+      },
+      {
+        "name": "Lying-triceps-extension-2-1.gif",
+        "path": "/assets/exercise/Lying-triceps-extension-2-1.gif"
+      },
+      {
+        "name": "Lying-triceps-extension-2-2.gif",
+        "path": "/assets/exercise/Lying-triceps-extension-2-2.gif"
+      },
+      {
+        "name": "Lying-triceps-extension-across-face-1.svg",
+        "path": "/assets/exercise/Lying-triceps-extension-across-face-1.svg"
+      },
+      {
+        "name": "Lying-triceps-extension-across-face-2.svg",
+        "path": "/assets/exercise/Lying-triceps-extension-across-face-2.svg"
+      },
+      {
+        "name": "Lying-triceps-press-1.gif",
+        "path": "/assets/exercise/Lying-triceps-press-1.gif"
+      },
+      {
+        "name": "Lying-triceps-press-2.gif",
+        "path": "/assets/exercise/Lying-triceps-press-2.gif"
+      },
+      {
+        "name": "Medicine-ball-biceps-curl-on-stability-ball-1.svg",
+        "path": "/assets/exercise/Medicine-ball-biceps-curl-on-stability-ball-1.svg"
+      },
+      {
+        "name": "Medicine-ball-biceps-curl-on-stability-ball-2.svg",
+        "path": "/assets/exercise/Medicine-ball-biceps-curl-on-stability-ball-2.svg"
+      },
+      {
+        "name": "Old-school-reverse-extensions-2.gif",
+        "path": "/assets/exercise/Old-school-reverse-extensions-2.gif"
+      },
+      {
+        "name": "One-arm-bicep-concentration-on-stability-ball-1.svg",
+        "path": "/assets/exercise/One-arm-bicep-concentration-on-stability-ball-1.svg"
+      },
+      {
+        "name": "One-arm-bicep-concentration-on-stability-ball-2.svg",
+        "path": "/assets/exercise/One-arm-bicep-concentration-on-stability-ball-2.svg"
+      },
+      {
+        "name": "One-arm-bicep-curl-with-olympic-bar-1.gif",
+        "path": "/assets/exercise/One-arm-bicep-curl-with-olympic-bar-1.gif"
+      },
+      {
+        "name": "One-arm-bicep-curl-with-olympic-bar-2.gif",
+        "path": "/assets/exercise/One-arm-bicep-curl-with-olympic-bar-2.gif"
+      },
+      {
+        "name": "One-arm-preacher-curl-1.svg",
+        "path": "/assets/exercise/One-arm-preacher-curl-1.svg"
+      },
+      {
+        "name": "One-arm-preacher-curl-2.svg",
+        "path": "/assets/exercise/One-arm-preacher-curl-2.svg"
+      },
+      {
+        "name": "One-arm-tricep-extension-1.gif",
+        "path": "/assets/exercise/One-arm-tricep-extension-1.gif"
+      },
+      {
+        "name": "One-arm-tricep-extension-2.gif",
+        "path": "/assets/exercise/One-arm-tricep-extension-2.gif"
+      },
+      {
+        "name": "One-arm-triceps-extension-1.svg",
+        "path": "/assets/exercise/One-arm-triceps-extension-1.svg"
+      },
+      {
+        "name": "One-arm-triceps-extension-2.svg",
+        "path": "/assets/exercise/One-arm-triceps-extension-2.svg"
+      },
+      {
+        "name": "Overhead-curl-1.gif",
+        "path": "/assets/exercise/Overhead-curl-1.gif"
+      },
+      {
+        "name": "Overhead-curl-2.gif",
+        "path": "/assets/exercise/Overhead-curl-2.gif"
+      },
+      {
+        "name": "Preacher-curl-1.gif",
+        "path": "/assets/exercise/Preacher-curl-1.gif"
+      },
+      {
+        "name": "Preacher-curl-2.gif",
+        "path": "/assets/exercise/Preacher-curl-2.gif"
+      },
+      {
+        "name": "Preacher-curl-2-1.gif",
+        "path": "/assets/exercise/Preacher-curl-2-1.gif"
+      },
+      {
+        "name": "Preacher-curl-2-2.gif",
+        "path": "/assets/exercise/Preacher-curl-2-2.gif"
+      },
+      {
+        "name": "Preacher-curl-3-1.svg",
+        "path": "/assets/exercise/Preacher-curl-3-1.svg"
+      },
+      {
+        "name": "Preacher-curl-3-2.svg",
+        "path": "/assets/exercise/Preacher-curl-3-2.svg"
+      },
+      {
+        "name": "Preacher-hammer-curl-1.gif",
+        "path": "/assets/exercise/Preacher-hammer-curl-1.gif"
+      },
+      {
+        "name": "Preacher-hammer-curl-2.gif",
+        "path": "/assets/exercise/Preacher-hammer-curl-2.gif"
+      },
+      {
+        "name": "Prone-incline-biceps-curl-1.gif",
+        "path": "/assets/exercise/Prone-incline-biceps-curl-1.gif"
+      },
+      {
+        "name": "Prone-incline-biceps-curl-2.gif",
+        "path": "/assets/exercise/Prone-incline-biceps-curl-2.gif"
+      },
+      {
+        "name": "Reverse-grip-triceps-pushdown-1.gif",
+        "path": "/assets/exercise/Reverse-grip-triceps-pushdown-1.gif"
+      },
+      {
+        "name": "Reverse-grip-triceps-pushdown-2.gif",
+        "path": "/assets/exercise/Reverse-grip-triceps-pushdown-2.gif"
+      },
+      {
+        "name": "Reverse-triceps-bench-press-1.gif",
+        "path": "/assets/exercise/Reverse-triceps-bench-press-1.gif"
+      },
+      {
+        "name": "Reverse-triceps-bench-press-2.gif",
+        "path": "/assets/exercise/Reverse-triceps-bench-press-2.gif"
+      },
+      {
+        "name": "Seated-bent-over-one-arm-triceps-extension-1.gif",
+        "path": "/assets/exercise/Seated-bent-over-one-arm-triceps-extension-1.gif"
+      },
+      {
+        "name": "Seated-bent-over-one-arm-triceps-extension-2.gif",
+        "path": "/assets/exercise/Seated-bent-over-one-arm-triceps-extension-2.gif"
+      },
+      {
+        "name": "Seated-bicep-curl-1.gif",
+        "path": "/assets/exercise/Seated-bicep-curl-1.gif"
+      },
+      {
+        "name": "Seated-bicep-curl-2.gif",
+        "path": "/assets/exercise/Seated-bicep-curl-2.gif"
+      },
+      {
+        "name": "Seated-close-grip-concentration-curls-1.gif",
+        "path": "/assets/exercise/Seated-close-grip-concentration-curls-1.gif"
+      },
+      {
+        "name": "Seated-close-grip-concentration-curls-2.gif",
+        "path": "/assets/exercise/Seated-close-grip-concentration-curls-2.gif"
+      },
+      {
+        "name": "Seated-inner-biceps-curl-1.gif",
+        "path": "/assets/exercise/Seated-inner-biceps-curl-1.gif"
+      },
+      {
+        "name": "Seated-overhead-triceps-extension-1.gif",
+        "path": "/assets/exercise/Seated-overhead-triceps-extension-1.gif"
+      },
+      {
+        "name": "Seated-overhead-triceps-extension-2.gif",
+        "path": "/assets/exercise/Seated-overhead-triceps-extension-2.gif"
+      },
+      {
+        "name": "Seated-triceps-press-1.svg",
+        "path": "/assets/exercise/Seated-triceps-press-1.svg"
+      },
+      {
+        "name": "Seated-triceps-press-2.svg",
+        "path": "/assets/exercise/Seated-triceps-press-2.svg"
+      },
+      {
+        "name": "Single-arm-pronated-triceps-extension-1.gif",
+        "path": "/assets/exercise/Single-arm-pronated-triceps-extension-1.gif"
+      },
+      {
+        "name": "Single-arm-pronated-triceps-extension-2.gif",
+        "path": "/assets/exercise/Single-arm-pronated-triceps-extension-2.gif"
+      },
+      {
+        "name": "Single-arm-supinated-triceps-extension-1.gif",
+        "path": "/assets/exercise/Single-arm-supinated-triceps-extension-1.gif"
+      },
+      {
+        "name": "Single-arm-supinated-triceps-extension-2.gif",
+        "path": "/assets/exercise/Single-arm-supinated-triceps-extension-2.gif"
+      },
+      {
+        "name": "Spider-curl-1.svg",
+        "path": "/assets/exercise/Spider-curl-1.svg"
+      },
+      {
+        "name": "Spider-curl-2.svg",
+        "path": "/assets/exercise/Spider-curl-2.svg"
+      },
+      {
+        "name": "Standing-biceps-curl-1.svg",
+        "path": "/assets/exercise/Standing-biceps-curl-1.svg"
+      },
+      {
+        "name": "Standing-biceps-curl-2.svg",
+        "path": "/assets/exercise/Standing-biceps-curl-2.svg"
+      },
+      {
+        "name": "Standing-inner-biceps-curl-1.gif",
+        "path": "/assets/exercise/Standing-inner-biceps-curl-1.gif"
+      },
+      {
+        "name": "Standing-inner-biceps-curl-2.gif",
+        "path": "/assets/exercise/Standing-inner-biceps-curl-2.gif"
+      },
+      {
+        "name": "Standing-one-arm-bicep-curl-1.gif",
+        "path": "/assets/exercise/Standing-one-arm-bicep-curl-1.gif"
+      },
+      {
+        "name": "Standing-one-arm-bicep-curl-2.gif",
+        "path": "/assets/exercise/Standing-one-arm-bicep-curl-2.gif"
+      },
+      {
+        "name": "Standing-one-arm-curl-over-incline-bench-1.gif",
+        "path": "/assets/exercise/Standing-one-arm-curl-over-incline-bench-1.gif"
+      },
+      {
+        "name": "Standing-one-arm-curl-over-incline-bench-2.gif",
+        "path": "/assets/exercise/Standing-one-arm-curl-over-incline-bench-2.gif"
+      },
+      {
+        "name": "Standing-one-arm-low-pulley-triceps-extension-1.gif",
+        "path": "/assets/exercise/Standing-one-arm-low-pulley-triceps-extension-1.gif"
+      },
+      {
+        "name": "Standing-one-arm-low-pulley-triceps-extension-2.gif",
+        "path": "/assets/exercise/Standing-one-arm-low-pulley-triceps-extension-2.gif"
+      },
+      {
+        "name": "Standing-one-arm-triceps-extension-1.gif",
+        "path": "/assets/exercise/Standing-one-arm-triceps-extension-1.gif"
+      },
+      {
+        "name": "Standing-one-arm-triceps-extension-2.gif",
+        "path": "/assets/exercise/Standing-one-arm-triceps-extension-2.gif"
+      },
+      {
+        "name": "Standing-overhead-triceps-extension-1.gif",
+        "path": "/assets/exercise/Standing-overhead-triceps-extension-1.gif"
+      },
+      {
+        "name": "Standing-overhead-triceps-extension-2.gif",
+        "path": "/assets/exercise/Standing-overhead-triceps-extension-2.gif"
+      },
+      {
+        "name": "Standing-towel-triceps-extension-1.gif",
+        "path": "/assets/exercise/Standing-towel-triceps-extension-1.gif"
+      },
+      {
+        "name": "Standing-triceps-extension-1.gif",
+        "path": "/assets/exercise/Standing-triceps-extension-1.gif"
+      },
+      {
+        "name": "Standing-triceps-extension-2.gif",
+        "path": "/assets/exercise/Standing-triceps-extension-2.gif"
+      },
+      {
+        "name": "Standing-triceps-extension-2-1.gif",
+        "path": "/assets/exercise/Standing-triceps-extension-2-1.gif"
+      },
+      {
+        "name": "Standing-triceps-extension-2-2.gif",
+        "path": "/assets/exercise/Standing-triceps-extension-2-2.gif"
+      },
+      {
+        "name": "Tate-press-1.gif",
+        "path": "/assets/exercise/Tate-press-1.gif"
+      },
+      {
+        "name": "Tate-press-2.gif",
+        "path": "/assets/exercise/Tate-press-2.gif"
+      },
+      {
+        "name": "Tricep-dips-1.svg",
+        "path": "/assets/exercise/Tricep-dips-1.svg"
+      },
+      {
+        "name": "Tricep-dips-2.svg",
+        "path": "/assets/exercise/Tricep-dips-2.svg"
+      },
+      {
+        "name": "Tricep-dips-2-1.svg",
+        "path": "/assets/exercise/Tricep-dips-2-1.svg"
+      },
+      {
+        "name": "Tricep-dips-2-2.svg",
+        "path": "/assets/exercise/Tricep-dips-2-2.svg"
+      },
+      {
+        "name": "Triceps-extensions-1.gif",
+        "path": "/assets/exercise/Triceps-extensions-1.gif"
+      },
+      {
+        "name": "Triceps-extensions-2.gif",
+        "path": "/assets/exercise/Triceps-extensions-2.gif"
+      },
+      {
+        "name": "Triceps-kickback-1.svg",
+        "path": "/assets/exercise/Triceps-kickback-1.svg"
+      },
+      {
+        "name": "Triceps-kickback-2.svg",
+        "path": "/assets/exercise/Triceps-kickback-2.svg"
+      },
+      {
+        "name": "Triceps-pushdown-1.gif",
+        "path": "/assets/exercise/Triceps-pushdown-1.gif"
+      },
+      {
+        "name": "Triceps-pushdown-2.gif",
+        "path": "/assets/exercise/Triceps-pushdown-2.gif"
+      },
+      {
+        "name": "Triceps-pushdown-with-rope-1.gif",
+        "path": "/assets/exercise/Triceps-pushdown-with-rope-1.gif"
+      },
+      {
+        "name": "Triceps-pushdown-with-rope-2.gif",
+        "path": "/assets/exercise/Triceps-pushdown-with-rope-2.gif"
+      },
+      {
+        "name": "Triceps-pushdown-with-v-bar-1.gif",
+        "path": "/assets/exercise/Triceps-pushdown-with-v-bar-1.gif"
+      },
+      {
+        "name": "Triceps-pushdown-with-v-bar-2.gif",
+        "path": "/assets/exercise/Triceps-pushdown-with-v-bar-2.gif"
+      },
+      {
+        "name": "Two-arm-preacher-curl-1.gif",
+        "path": "/assets/exercise/Two-arm-preacher-curl-1.gif"
+      },
+      {
+        "name": "Two-arm-preacher-curl-2.gif",
+        "path": "/assets/exercise/Two-arm-preacher-curl-2.gif"
+      },
+      {
+        "name": "Wide-grip-standing-biceps-curl-1.gif",
+        "path": "/assets/exercise/Wide-grip-standing-biceps-curl-1.gif"
+      },
+      {
+        "name": "Wide-grip-standing-biceps-curl-2.gif",
+        "path": "/assets/exercise/Wide-grip-standing-biceps-curl-2.gif"
+      },
+      {
+        "name": "Zottman-curl-1.gif",
+        "path": "/assets/exercise/Zottman-curl-1.gif"
+      },
+      {
+        "name": "Zottman-curl-2.gif",
+        "path": "/assets/exercise/Zottman-curl-2.gif"
+      },
+      {
+        "name": "Zottman-preacher-curl-1.gif",
+        "path": "/assets/exercise/Zottman-preacher-curl-1.gif"
+      },
+      {
+        "name": "Zottman-preacher-curl-2.gif",
+        "path": "/assets/exercise/Zottman-preacher-curl-2.gif"
+      }
+    ]
+  },
+  {
+    "muscleGroup": "upper legs",
+    "exercises": [
+      {
+        "name": "Front-squat-1-857x1024.png",
+        "path": "/assets/exercise/Front-squat-1-857x1024.png"
+      },
+      {
+        "name": "Front-squat-2-857x1024.png",
+        "path": "/assets/exercise/Front-squat-2-857x1024.png"
+      },
+      {
+        "name": "Front-squat-to-bench-1-858x1024.png",
+        "path": "/assets/exercise/Front-squat-to-bench-1-858x1024.png"
+      },
+      {
+        "name": "Front-squat-to-bench-2-858x1024.png",
+        "path": "/assets/exercise/Front-squat-to-bench-2-858x1024.png"
+      },
+      {
+        "name": "Hack-squat-1-856x1024.png",
+        "path": "/assets/exercise/Hack-squat-1-856x1024.png"
+      },
+      {
+        "name": "Hack-squat-2-1-768x1024.png",
+        "path": "/assets/exercise/Hack-squat-2-1-768x1024.png"
+      },
+      {
+        "name": "Hack-squat-2-2-768x1024.png",
+        "path": "/assets/exercise/Hack-squat-2-2-768x1024.png"
+      },
+      {
+        "name": "Hack-squat-2-856x1024.png",
+        "path": "/assets/exercise/Hack-squat-2-856x1024.png"
+      },
+      {
+        "name": "Hack-squats-1.gif",
+        "path": "/assets/exercise/Hack-squats-1.gif"
+      },
+      {
+        "name": "Hack-squats-2.gif",
+        "path": "/assets/exercise/Hack-squats-2.gif"
+      },
+      {
+        "name": "Hip-adduction-1-634x1024.png",
+        "path": "/assets/exercise/Hip-adduction-1-634x1024.png"
+      },
+      {
+        "name": "Hip-adduction-2-634x1024.png",
+        "path": "/assets/exercise/Hip-adduction-2-634x1024.png"
+      },
+      {
+        "name": "Jefferson-squats-1-413x1024.png",
+        "path": "/assets/exercise/Jefferson-squats-1-413x1024.png"
+      },
+      {
+        "name": "Jefferson-squats-2-413x1024.png",
+        "path": "/assets/exercise/Jefferson-squats-2-413x1024.png"
+      },
+      {
+        "name": "Leg-extensions-1-672x1024.png",
+        "path": "/assets/exercise/Leg-extensions-1-672x1024.png"
+      },
+      {
+        "name": "Leg-extensions-2-672x1024.png",
+        "path": "/assets/exercise/Leg-extensions-2-672x1024.png"
+      },
+      {
+        "name": "Leg-press-1-1024x670.svg",
+        "path": "/assets/exercise/Leg-press-1-1024x670.svg"
+      },
+      {
+        "name": "Leg-press-2-1024x670.svg",
+        "path": "/assets/exercise/Leg-press-2-1024x670.svg"
+      },
+      { "name": "Lunges-1.svg", "path": "/assets/exercise/Lunges-1.svg" },
+      { "name": "Lunges-2.svg", "path": "/assets/exercise/Lunges-2.svg" },
+      { "name": "Lunges-2-1.svg", "path": "/assets/exercise/Lunges-2-1.svg" },
+      { "name": "Lunges-2-2.svg", "path": "/assets/exercise/Lunges-2-2.svg" },
+      {
+        "name": "Narrow-stance-hack-squats-1-1024x721.png",
+        "path": "/assets/exercise/Narrow-stance-hack-squats-1-1024x721.png"
+      },
+      {
+        "name": "Narrow-stance-hack-squats-2-1024x721.png",
+        "path": "/assets/exercise/Narrow-stance-hack-squats-2-1024x721.png"
+      },
+      {
+        "name": "Narrow-stance-leg-press-1-1024x671.png",
+        "path": "/assets/exercise/Narrow-stance-leg-press-1-1024x671.png"
+      },
+      {
+        "name": "Narrow-stance-leg-press-2-1024x671.png",
+        "path": "/assets/exercise/Narrow-stance-leg-press-2-1024x671.png"
+      },
+      {
+        "name": "One-arm-side-deadlift-1.gif",
+        "path": "/assets/exercise/One-arm-side-deadlift-1.gif"
+      },
+      {
+        "name": "One-arm-side-deadlift-2.gif",
+        "path": "/assets/exercise/One-arm-side-deadlift-2.gif"
+      },
+      {
+        "name": "One-arm-snatch-1.gif",
+        "path": "/assets/exercise/One-arm-snatch-1.gif"
+      },
+      {
+        "name": "One-arm-snatch-2.gif",
+        "path": "/assets/exercise/One-arm-snatch-2.gif"
+      },
+      {
+        "name": "One-leg-squat-1.gif",
+        "path": "/assets/exercise/One-leg-squat-1.gif"
+      },
+      {
+        "name": "One-leg-squat-2.gif",
+        "path": "/assets/exercise/One-leg-squat-2.gif"
+      },
+      {
+        "name": "One-legged-kickback-1.png",
+        "path": "/assets/exercise/One-legged-kickback-1.png"
+      },
+      {
+        "name": "One-legged-kickback-2.png",
+        "path": "/assets/exercise/One-legged-kickback-2.png"
+      },
+      {
+        "name": "Overhead-squat-1.gif",
+        "path": "/assets/exercise/Overhead-squat-1.gif"
+      },
+      {
+        "name": "Overhead-squat-2.gif",
+        "path": "/assets/exercise/Overhead-squat-2.gif"
+      },
+      {
+        "name": "Pile-squat-1.gif",
+        "path": "/assets/exercise/Pile-squat-1.gif"
+      },
+      {
+        "name": "Pile-squat-2.gif",
+        "path": "/assets/exercise/Pile-squat-2.gif"
+      },
+      {
+        "name": "Rear-lunges-1-1024x1015.png",
+        "path": "/assets/exercise/Rear-lunges-1-1024x1015.png"
+      },
+      {
+        "name": "Rear-lunges-2-1-611x1024.png",
+        "path": "/assets/exercise/Rear-lunges-2-1-611x1024.png"
+      },
+      {
+        "name": "Rear-lunges-2-2-611x1024.png",
+        "path": "/assets/exercise/Rear-lunges-2-2-611x1024.png"
+      },
+      {
+        "name": "Rear-lunges-2-1024x1015.png",
+        "path": "/assets/exercise/Rear-lunges-2-1024x1015.png"
+      },
+      {
+        "name": "Seated-leg-curl-1.png",
+        "path": "/assets/exercise/Seated-leg-curl-1.png"
+      },
+      {
+        "name": "Seated-leg-curl-2.png",
+        "path": "/assets/exercise/Seated-leg-curl-2.png"
+      },
+      {
+        "name": "Side-split-squats-1-1024x600.png",
+        "path": "/assets/exercise/Side-split-squats-1-1024x600.png"
+      },
+      {
+        "name": "Side-split-squats-2-1024x600.png",
+        "path": "/assets/exercise/Side-split-squats-2-1024x600.png"
+      },
+      {
+        "name": "Single-leg-squat-1-877x1024.png",
+        "path": "/assets/exercise/Single-leg-squat-1-877x1024.png"
+      },
+      {
+        "name": "Single-leg-squat-2-877x1024.png",
+        "path": "/assets/exercise/Single-leg-squat-2-877x1024.png"
+      },
+      {
+        "name": "Speed-squats-1.gif",
+        "path": "/assets/exercise/Speed-squats-1.gif"
+      },
+      {
+        "name": "Speed-squats-2.gif",
+        "path": "/assets/exercise/Speed-squats-2.gif"
+      },
+      {
+        "name": "Squat-to-bench-1-865x1024.png",
+        "path": "/assets/exercise/Squat-to-bench-1-865x1024.png"
+      },
+      {
+        "name": "Squat-to-bench-2-1-542x1024.png",
+        "path": "/assets/exercise/Squat-to-bench-2-1-542x1024.png"
+      },
+      {
+        "name": "Squat-to-bench-2-2-542x1024.png",
+        "path": "/assets/exercise/Squat-to-bench-2-2-542x1024.png"
+      },
+      {
+        "name": "Squat-to-bench-2-865x1024.png",
+        "path": "/assets/exercise/Squat-to-bench-2-865x1024.png"
+      },
+      { "name": "Squats-1.svg", "path": "/assets/exercise/Squats-1.svg" },
+      { "name": "Squats-2.svg", "path": "/assets/exercise/Squats-2.svg" },
+      { "name": "Squats-2-1.svg", "path": "/assets/exercise/Squats-2-1.svg" },
+      { "name": "Squats-2-2.svg", "path": "/assets/exercise/Squats-2-2.svg" },
+      {
+        "name": "Squats-3-1-436x1024.svg",
+        "path": "/assets/exercise/Squats-3-1-436x1024.svg"
+      },
+      {
+        "name": "Squats-3-2-436x1024.svg",
+        "path": "/assets/exercise/Squats-3-2-436x1024.svg"
+      },
+      { "name": "Squats-4-1.svg", "path": "/assets/exercise/Squats-4-1.svg" },
+      { "name": "Squats-4-2.svg", "path": "/assets/exercise/Squats-4-2.svg" },
+      {
+        "name": "Standing-leg-curl-1.png",
+        "path": "/assets/exercise/Standing-leg-curl-1.png"
+      },
+      {
+        "name": "Standing-leg-curl-2.png",
+        "path": "/assets/exercise/Standing-leg-curl-2.png"
+      },
+      {
+        "name": "Step-ups-1-801x1024.png",
+        "path": "/assets/exercise/Step-ups-1-801x1024.png"
+      },
+      {
+        "name": "Step-ups-2-1-553x1024.png",
+        "path": "/assets/exercise/Step-ups-2-1-553x1024.png"
+      },
+      {
+        "name": "Step-ups-2-2-553x1024.png",
+        "path": "/assets/exercise/Step-ups-2-2-553x1024.png"
+      },
+      {
+        "name": "Step-ups-2-3-553x1024.png",
+        "path": "/assets/exercise/Step-ups-2-3-553x1024.png"
+      },
+      {
+        "name": "Step-ups-2-801x1024.png",
+        "path": "/assets/exercise/Step-ups-2-801x1024.png"
+      },
+      {
+        "name": "Step-ups-3-801x1024.png",
+        "path": "/assets/exercise/Step-ups-3-801x1024.png"
+      },
+      {
+        "name": "Thigh-abductor-1.gif",
+        "path": "/assets/exercise/Thigh-abductor-1.gif"
+      },
+      {
+        "name": "Thigh-abductor-2.gif",
+        "path": "/assets/exercise/Thigh-abductor-2.gif"
+      },
+      {
+        "name": "Thigh-adductor-1.gif",
+        "path": "/assets/exercise/Thigh-adductor-1.gif"
+      },
+      {
+        "name": "Thigh-adductor-2.gif",
+        "path": "/assets/exercise/Thigh-adductor-2.gif"
+      },
+      {
+        "name": "Walking-lunges-1.png",
+        "path": "/assets/exercise/Walking-lunges-1.png"
+      },
+      {
+        "name": "Walking-lunges-2.png",
+        "path": "/assets/exercise/Walking-lunges-2.png"
+      },
+      {
+        "name": "Walking-lunges-3.png",
+        "path": "/assets/exercise/Walking-lunges-3.png"
+      },
+      {
+        "name": "Walking-lunges-4.png",
+        "path": "/assets/exercise/Walking-lunges-4.png"
+      },
+      {
+        "name": "Weighted-sissy-squat-1.gif",
+        "path": "/assets/exercise/Weighted-sissy-squat-1.gif"
+      },
+      {
+        "name": "Weighted-sissy-squat-2.gif",
+        "path": "/assets/exercise/Weighted-sissy-squat-2.gif"
+      },
+      {
+        "name": "Wide-stance-squat-1.gif",
+        "path": "/assets/exercise/Wide-stance-squat-1.gif"
+      },
+      {
+        "name": "Wide-stance-squat-2.gif",
+        "path": "/assets/exercise/Wide-stance-squat-2.gif"
+      },
+      {
+        "name": "Zecher-squats-1.gif",
+        "path": "/assets/exercise/Zecher-squats-1.gif"
+      },
+      {
+        "name": "Zecher-squats-2.gif",
+        "path": "/assets/exercise/Zecher-squats-2.gif"
+      }
+    ]
+  },
+  {
+    "muscleGroup": "waist",
+    "exercises": [
+      {
+        "name": "Ab-rollout-1.gif",
+        "path": "/assets/exercise/Ab-rollout-1.gif"
+      },
+      {
+        "name": "Ab-rollout-2.gif",
+        "path": "/assets/exercise/Ab-rollout-2.gif"
+      },
+      {
+        "name": "Ab-rollout-on-knees-1.gif",
+        "path": "/assets/exercise/Ab-rollout-on-knees-1.gif"
+      },
+      {
+        "name": "Ab-rollout-on-knees-2.gif",
+        "path": "/assets/exercise/Ab-rollout-on-knees-2.gif"
+      },
+      {
+        "name": "Abdominal-4-point-drawing-in-1.png",
+        "path": "/assets/exercise/Abdominal-4-point-drawing-in-1.png"
+      },
+      {
+        "name": "Abdominal-4-point-drawing-in-2.png",
+        "path": "/assets/exercise/Abdominal-4-point-drawing-in-2.png"
+      },
+      {
+        "name": "Bent-knee-hip-raise-1.svg",
+        "path": "/assets/exercise/Bent-knee-hip-raise-1.svg"
+      },
+      {
+        "name": "Bent-knee-hip-raise-2.svg",
+        "path": "/assets/exercise/Bent-knee-hip-raise-2.svg"
+      },
+      { "name": "Bridge-1.svg", "path": "/assets/exercise/Bridge-1.svg" },
+      { "name": "Bridge-2.svg", "path": "/assets/exercise/Bridge-2.svg" },
+      {
+        "name": "Cross-body-crunch-1.svg",
+        "path": "/assets/exercise/Cross-body-crunch-1.svg"
+      },
+      {
+        "name": "Cross-body-crunch-2.svg",
+        "path": "/assets/exercise/Cross-body-crunch-2.svg"
+      },
+      { "name": "Crunches-1.svg", "path": "/assets/exercise/Crunches-1.svg" },
+      { "name": "Crunches-2.svg", "path": "/assets/exercise/Crunches-2.svg" },
+      {
+        "name": "Crunches-with-legs-on-stability-ball-1.svg",
+        "path": "/assets/exercise/Crunches-with-legs-on-stability-ball-1.svg"
+      },
+      {
+        "name": "Crunches-with-legs-on-stability-ball-2.svg",
+        "path": "/assets/exercise/Crunches-with-legs-on-stability-ball-2.svg"
+      },
+      {
+        "name": "Decline-crunch-1.svg",
+        "path": "/assets/exercise/Decline-crunch-1.svg"
+      },
+      {
+        "name": "Decline-crunch-2.svg",
+        "path": "/assets/exercise/Decline-crunch-2.svg"
+      },
+      {
+        "name": "Exercise-ball-pull-in-1.svg",
+        "path": "/assets/exercise/Exercise-ball-pull-in-1.svg"
+      },
+      {
+        "name": "Exercise-ball-pull-in-2.svg",
+        "path": "/assets/exercise/Exercise-ball-pull-in-2.svg"
+      },
+      {
+        "name": "Flutter-kicks-1.png",
+        "path": "/assets/exercise/Flutter-kicks-1.png"
+      },
+      {
+        "name": "Flutter-kicks-2.png",
+        "path": "/assets/exercise/Flutter-kicks-2.png"
+      },
+      {
+        "name": "Hanging-leg-raise-1.svg",
+        "path": "/assets/exercise/Hanging-leg-raise-1.svg"
+      },
+      {
+        "name": "Hanging-leg-raise-2.svg",
+        "path": "/assets/exercise/Hanging-leg-raise-2.svg"
+      },
+      {
+        "name": "Jackknife-sit-up-1.svg",
+        "path": "/assets/exercise/Jackknife-sit-up-1.svg"
+      },
+      {
+        "name": "Jackknife-sit-up-2.svg",
+        "path": "/assets/exercise/Jackknife-sit-up-2.svg"
+      },
+      {
+        "name": "Knee-raise-on-parallel-bars-1.svg",
+        "path": "/assets/exercise/Knee-raise-on-parallel-bars-1.svg"
+      },
+      {
+        "name": "Knee-raise-on-parallel-bars-2.svg",
+        "path": "/assets/exercise/Knee-raise-on-parallel-bars-2.svg"
+      },
+      {
+        "name": "Leg-pull-in-1.svg",
+        "path": "/assets/exercise/Leg-pull-in-1.svg"
+      },
+      {
+        "name": "Leg-pull-in-2.svg",
+        "path": "/assets/exercise/Leg-pull-in-2.svg"
+      },
+      { "name": "Plank-1.png", "path": "/assets/exercise/Plank-1.png" },
+      { "name": "Plank-2.png", "path": "/assets/exercise/Plank-2.png" },
+      {
+        "name": "Russian-twist-1.svg",
+        "path": "/assets/exercise/Russian-twist-1.svg"
+      },
+      {
+        "name": "Russian-twist-2.svg",
+        "path": "/assets/exercise/Russian-twist-2.svg"
+      },
+      { "name": "Side-bend-1.svg", "path": "/assets/exercise/Side-bend-1.svg" },
+      { "name": "Side-bend-2.svg", "path": "/assets/exercise/Side-bend-2.svg" },
+      {
+        "name": "Side-plank-1.png",
+        "path": "/assets/exercise/Side-plank-1.png"
+      },
+      {
+        "name": "Side-plank-2.png",
+        "path": "/assets/exercise/Side-plank-2.png"
+      },
+      { "name": "Sit-ups-1.svg", "path": "/assets/exercise/Sit-ups-1.svg" },
+      { "name": "Sit-ups-2.svg", "path": "/assets/exercise/Sit-ups-2.svg" },
+      {
+        "name": "Toe-touchers-1.svg",
+        "path": "/assets/exercise/Toe-touchers-1.svg"
+      },
+      {
+        "name": "Toe-touchers-2.svg",
+        "path": "/assets/exercise/Toe-touchers-2.svg"
+      },
+      {
+        "name": "Twisting-crunch-1.svg",
+        "path": "/assets/exercise/Twisting-crunch-1.svg"
+      },
+      {
+        "name": "Twisting-crunch-2.svg",
+        "path": "/assets/exercise/Twisting-crunch-2.svg"
+      }
+    ]
+  }
+]
